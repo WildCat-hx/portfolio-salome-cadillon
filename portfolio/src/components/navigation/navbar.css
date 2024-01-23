@@ -1,0 +1,27 @@
+li {
+  list-style: none;
+}
+
+.navbar {
+  height: 150px;
+  width: 100%;
+}
+  
+.container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0;
+  margin: 0;
+  width: 100%;
+  position: fixed;
+  background-color: red;
+}
+  
+.site-name {
+  padding-left: 50px;
+}
+  
+.navigation {
+  display: inline-block;
+}
